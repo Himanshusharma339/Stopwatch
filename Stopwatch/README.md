@@ -11,4 +11,4 @@ Features include:
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Himanshusharma339>/stopwatch-js.git
+   git clone https://github.com/<Himanshusharma339>/Stopwatch
